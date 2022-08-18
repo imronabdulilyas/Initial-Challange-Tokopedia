@@ -1,4 +1,4 @@
-# Initial-Challange-Tokopedia
+# Initial-Challenge-Tokopedia
 
 
 # UI Automations Assignment (Imron Abdul Ilyas)
