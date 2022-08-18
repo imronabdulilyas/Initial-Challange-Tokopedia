@@ -22,12 +22,12 @@ This project was created to continue the recruitment process as SDET at Tokopedi
 1. Make sure eclipse was installed.
 2. Make sure TesNG plugin is installed (installations guide https://testng.org/doc/eclipse.html).
 3. Import the project.
-4. Open testng.xml and fill up parameter value with firefox/chrome) to determine which browser will use for the test.
+4. Open testng.xml and fill up parameter value with firefox/chrome to determine which browser will use for the test.
 5. Right click on tesng.xml > Run As > TestNG Suite. 
 6. The automations test will run.
 
 ## Test Result
-*Make sure the project directory is refreshed after the test is complete.
+*Make sure the project directory is refreshed after the test is completed.
 - Captured screen result
 	1. Open 'captures' folder on project directory.
 	2. Choose test time folder.
