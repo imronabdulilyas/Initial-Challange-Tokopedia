@@ -47,7 +47,7 @@ public class BaseTest extends Functions {
 		new File(projectPath+"/captures/"+formattedDate()).mkdirs();
 		
 		if(browserName.equalsIgnoreCase("chrome")) {
-			System.setProperty("webdriver.gecko.driver", projectPath+"/drivers/chrome/chromedriver.exe");
+			System.setProperty("webdriver.chrome.driver", projectPath+"/drivers/chrome/chromedriver.exe");
 			driver = new ChromeDriver();
 		}
 		else if(browserName.equalsIgnoreCase("firefox")) {
